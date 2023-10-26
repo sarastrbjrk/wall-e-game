@@ -1,0 +1,65 @@
+This game is based on the animated Disney Pixar movie "WALL-E" so if you're not familiar with the plot of the movie
+please consider looking up the wikipedia-page https://en.wikipedia.org/wiki/WALL-E (spoiler alert!)
+
+!! Some parts of the game is NOT compatible with the AdventureGUI, which is why it's not included in this version!!
+
+The intended way to play the game:
+
+In the welcome message it appears a package got lowered to the ground in location "airport".
+The player start at home. From there places available are: airport
+-> go airport
+You see items at location airport, pick them up.
+-> get phone
+-> get trash
+If you open your inventory you notice there's only the phone there (WALL-E getss rid of the trash)
+-> inventory
+You see nonplayer in area. Interact with them.
+-> Interact eve
+- You get her mission and feature (scanning items) and WALL-E's reaction to it.
+She seems to seek for signs of life. But you don't get to know more. Continue journey.
+-> go field
+-> get trash
+-> go museum
+-> get trash
+When you pick up the trash in the museum there suddenly is a threath(sandstrom) and you must hide.
+-> hide (everything else gets you killed)
+Now a plant has appeared in the location. EVE said something about signs of life. Maybe you should show it to her.
+-> get plant
+-> go field
+-> go airport
+-> show plant to eve
+When she scans it and gets a match. She contacts the spaceship Axiom and a few moments later
+the spaceship lands in the airport area and a human approaches them.
+-> interact human
+The human asks EVE for her find, who then says WALL-E has the plant.
+The human then asks WALL-E if he has the plant on him, which makes WAll-E (good-natured that he is) show it to the human.
+-> show plant to human
+Gets reaction from human, who then asks if WALL-E can give the plant to the human. (activates final dilemma)
+-> yes -> wins game (FIN)
+-> no -> the human gets mad. You have to either fight or flee.
+    -> fight -> if you have nokia phone on you -> human dies (GAME OVER), else: you get deactivated (GAME OVER)
+    -> run -> you run away (the game continues)
+If battery is running low. A full battery lasts 14 turns.
+-> go home
+-> charge
+
+Possible endings:
+- run out of battery
+- die in sandstorm
+- fight human but with no weapon(you need to have the nokia phone on you)
+- killing the human with the nokia phone
+- show plant to human -> yes (wins game)
+
+(Some easter eggs in the game is showing different items to EVE and the human and get their reactions/descriptions of said items)
+
+Speedrun version of the game:
+-> go airport
+-> go museum
+-> get trash
+-> hide
+-> get plant
+-> go airport
+-> show plant to eve
+(-> interact human)
+-> show plant to human
+-> yes
